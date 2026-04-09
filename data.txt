@@ -1,0 +1,7 @@
+Python is used in Machine learning.
+Machine learning uses data.
+Data comes from sensors.
+Sensors are used in IOT.
+IOT devices generate real-time data.
+Real-time data is used for analytics.
+Analytics helps in decision making.
